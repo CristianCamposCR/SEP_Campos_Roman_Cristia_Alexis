@@ -1,0 +1,1 @@
+export const App_URL = "httt://localhost:3000";
